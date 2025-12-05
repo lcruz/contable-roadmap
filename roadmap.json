@@ -1,0 +1,109 @@
+{
+  "alguien_pagaria_por_esto": {
+    "title": "¿Alguien pagaría por esto?",
+    "description": "Valida tu idea de negocio. ¿Existe un mercado dispuesto a pagar por tu oferta? Realiza encuestas o pruebas de concepto para confirmar que hay demanda real.",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Cómo validar tu idea de negocio",
+        "url": "https://www.contable.cl/blog/validar-idea-negocio"
+      },
+      {
+        "type": "article",
+        "title": "Métodos de validación de mercado",
+        "url": "https://www.contable.cl/blog/metodos-validacion"
+      },
+      {
+        "type": "video",
+        "title": "Validación rápida de ideas de negocio",
+        "url": "https://www.youtube.com/watch?v=ejemplo"
+      }
+    ]
+  },
+  "como_voy_a_cobrar": {
+    "title": "¿Cómo voy a cobrar?",
+    "description": "Establece tus métodos de pago. ¿Será por transferencia, tarjeta de crédito, efectivo? ¿Necesitas un sistema de facturación? Define cómo recibirás los pagos de tus clientes.",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Métodos de pago para emprendedores",
+        "url": "https://www.contable.cl/blog/metodos-pago"
+      },
+      {
+        "type": "article",
+        "title": "Cómo elegir un sistema de facturación",
+        "url": "https://www.contable.cl/blog/sistema-facturacion"
+      },
+      {
+        "type": "video",
+        "title": "Configuración de pagos en línea",
+        "url": "https://www.youtube.com/watch?v=ejemplo"
+      }
+    ]
+  },
+  "que_quiero_vender": {
+    "title": "¿Qué quiero vender exactamente?",
+    "description": "Define claramente tu producto o servicio. ¿Qué problema resuelve? ¿Qué valor aporta a tus clientes? Especifica las características y beneficios únicos de tu oferta.",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Cómo definir tu propuesta de valor",
+        "url": "https://www.contable.cl/blog/propuesta-valor"
+      },
+      {
+        "type": "article",
+        "title": "Diferenciación de productos y servicios",
+        "url": "https://www.contable.cl/blog/diferenciacion"
+      },
+      {
+        "type": "video",
+        "title": "Desarrollo de propuesta de valor",
+        "url": "https://www.youtube.com/watch?v=ejemplo"
+      }
+    ]
+  },
+  "cuant_tiempo_dedicar": {
+    "title": "¿Cuánto tiempo puedo dedicar?",
+    "description": "Evalúa tu disponibilidad. ¿Es un proyecto a tiempo completo o parcial? ¿Necesitas delegar tareas? Planifica cómo distribuirás tu tiempo entre el emprendimiento y otras responsabilidades.",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Gestión del tiempo para emprendedores",
+        "url": "https://www.contable.cl/blog/gestion-tiempo"
+      },
+      {
+        "type": "article",
+        "title": "Emprender a tiempo parcial vs completo",
+        "url": "https://www.contable.cl/blog/tiempo-parcial-completo"
+      },
+      {
+        "type": "video",
+        "title": "Organización del tiempo en emprendimientos",
+        "url": "https://www.youtube.com/watch?v=ejemplo"
+      }
+    ]
+  },
+  "porque_quiero_emprender": {
+    "title": "¿Por qué quiero emprender?",
+    "description": "Reflexiona sobre tu motivación. ¿Qué te impulsa a iniciar este camino? Define tus objetivos personales y profesionales. Entender tu \"por qué\" te ayudará a mantenerte enfocado en los momentos difíciles.",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Encontrar tu propósito como emprendedor",
+        "url": "https://www.contable.cl/blog/proposito-emprendedor"
+      },
+      {
+        "type": "article",
+        "title": "Motivación y resiliencia en el emprendimiento",
+        "url": "https://www.contable.cl/blog/motivacion-resiliencia"
+      },
+      {
+        "type": "video",
+        "title": "Definiendo tu visión como emprendedor",
+        "url": "https://www.youtube.com/watch?v=ejemplo"
+      }
+    ]
+  }
+}
+
+

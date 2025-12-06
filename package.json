@@ -1,0 +1,22 @@
+{
+  "name": "contable-roadmap",
+  "version": "1.0.0",
+  "description": "Script to convert YAML roadmap to JSON",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "convert": "tsx yaml_to_json.ts",
+    "json": "tsx yaml_to_json.ts",
+    "yaml-to-json": "tsx yaml_to_json.ts",
+    "yaml-to-json:build": "tsc && node dist/yaml_to_json.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
+

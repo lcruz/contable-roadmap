@@ -1,0 +1,29 @@
+roadmap_emprender:
+  porque_quiero_emprender:
+    title: "¿Por qué quiero emprender?"
+    description: >
+      Emprender parte con una pregunta simple: ¿por qué quiero hacerlo?
+      Antes de pensar en ideas, trámites o ventas, es importante entender qué te mueve.
+      Tu motivación es lo que te mantiene avanzando cuando las cosas se ponen difíciles.
+      Tal vez buscas más ingresos, libertad de tiempo, estabilidad para tu familia,
+      independencia o la oportunidad de crear algo propio. No existe una razón correcta,
+      solo razones honestas y reales para ti. Cuando tienes claro tu porqué, eliges mejor
+      tus proyectos y te enfocas en lo que realmente importa. Pregúntate qué sueñas
+      cambiar y qué estás dispuesto a construir.
+    resources:
+      - type: "video"
+        title: "Simon Sinek: Cómo los grandes líderes inspiran la acción"
+        url: "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action/transcript"
+
+  cuanto_tiempo_dedicar:
+    title: "¿Cuánto tiempo puedo dedicar?"
+    description: >
+      Antes de elegir una idea o un modelo de negocio, es clave saber cuánto tiempo
+      realmente puedes dedicar cada semana. Emprender no es solo tener una buena idea,
+      sino tener horas disponibles para ejecutarla. Con poca disponibilidad es mejor
+      partir con proyectos simples, de servicios o validaciones pequeñas. Con más
+      tiempo, puedes construir algo más complejo y pensar en productos o procesos
+      más elaborados. Ser honesto con tu agenda evita frustración y te ayuda a elegir
+      un camino que sí podrás sostener. Define tu "semana emprendedora realista" y
+      comprométete con ese mínimo.
+    resources: []

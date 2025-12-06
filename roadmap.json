@@ -14,5 +14,21 @@
     "title": "¿Cuánto tiempo puedo dedicar?",
     "description": "Antes de elegir una idea o un modelo de negocio, es clave saber cuánto tiempo realmente puedes dedicar cada semana. Emprender no es solo tener una buena idea, sino tener horas disponibles para ejecutarla. Con poca disponibilidad es mejor partir con proyectos simples, de servicios o validaciones pequeñas. Con más tiempo, puedes construir algo más complejo y pensar en productos o procesos más elaborados. Ser honesto con tu agenda evita frustración y te ayuda a elegir un camino que sí podrás sostener. Define tu \"semana emprendedora realista\" y comprométete con ese mínimo.\n",
     "resources": []
+  },
+  "que_se_hacer": {
+    "title": "¿Qué sé hacer y qué tendría que aprender?",
+    "description": "Para avanzar con una idea, necesitas claridad sobre tus habilidades actuales y sobre lo que deberás aprender para entregar tu solución mínima. No basta con dominar una parte técnica; un emprendimiento requiere administración, ventas, comunicación, organización y resolución de problemas. Cada persona combina fortalezas distintas: algunos son más innovadores y creativos, otros más ordenados y administradores. Ninguno domina todo, y eso está bien. Lo esencial es reconocer tus capacidades reales y tus brechas. En el camino emprendedor, la habilidad más valiosa es aprender a aprender: adquirir rápidamente lo que te falta o complementarte con socios que equilibren tu proyecto. Esta claridad evita frustraciones y te ayuda a elegir un camino viable y sostenible.\n",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Cómo identificar tus habilidades para emprender – IEBS",
+        "url": "https://www.iebschool.com/blog/habilidades-emprendedor-crear-empresa-emprendedores/"
+      },
+      {
+        "type": "article",
+        "title": "Diagnóstico personal: fortalezas y competencias – Emprende UP",
+        "url": "https://emprendeup.up.edu.pe/blog/fortalezas-y-competencias-emprendedor"
+      }
+    ]
   }
 }

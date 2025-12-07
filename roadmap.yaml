@@ -226,10 +226,16 @@ roadmap_emprender:
   inicio_actividades_en_el_sii:
     title: "Inicio de actividades en el SII"
     description: >
-      Para vender formalmente en Chile, ya sea como persona natural o empresa, debes
-      realizar el inicio de actividades en el SII. Este trámite declara que comenzarás
-      a generar ingresos y te habilita para emitir boletas o facturas. Es gratuito y se
-      hace completamente online. Es un paso obligatorio si vas a operar de forma formal.
+      Realizar el **inicio de actividades en el SII** es un paso obligatorio para comenzar
+      a operar formalmente, ya sea como persona natural o como empresa. Este trámite le
+      informa al Estado que empezarás a generar ingresos y te habilita para emitir
+      **boletas** o **facturas**, según corresponda. El proceso es gratuito y se realiza
+      completamente en línea usando tu Clave Tributaria o Clave Única. Aunque es un trámite
+      simple, debes elegir correctamente el **giro comercial**, ya que determinará tus
+      futuras obligaciones tributarias. Algunas actividades requieren autorización adicional
+      o una patente municipal. Hacer este paso temprano te permite ordenar tus ingresos,
+      declarar impuestos correctamente y evitar observaciones del SII. Es un requisito
+      fundamental para trabajar de manera formal y construir un negocio sostenible.
     resources:
       - type: "article"
         title: "Inicio de Actividades - SII"
@@ -241,15 +247,39 @@ roadmap_emprender:
   puedo_usar_mi_domicilio:
     title: "¿Puedo usar mi domicilio como dirección del negocio?"
     description: >
-      Sí, en Chile puedes usar tu domicilio personal como dirección comercial para
-      iniciar actividades o crear una empresa. La mayoría de los emprendedores parte así.
-      Solo debes asegurarte de que la municipalidad permita actividades comerciales en esa
-      dirección si vas a sacar patente. Para servicios digitales o profesionales, no hay
-      problema en usar tu casa.
+      Usar tu domicilio como dirección comercial es una forma simple y válida de comenzar
+      a emprender en Chile, pero tiene **consideraciones importantes**. Si **arriendas**,
+      podrías necesitar autorización del propietario, y algunos contratos no permiten
+      actividades comerciales, lo que complica la **obtención de patente municipal**.
+      Además, no todas las municipalidades permiten patentes domiciliarias, especialmente
+      en zonas residenciales. También existe un **riesgo para tu privacidad**: tu dirección
+      queda en documentos oficiales y, en caso de problemas legales, las notificaciones o
+      embargos podrían dirigirse a tu hogar. Para actividades digitales o profesionales es
+      una opción común, pero si deseas evitar estos riesgos, puedes optar por una **oficina
+      virtual** o una dirección comercial habilitada. Lo importante es partir con algo
+      simple y ajustar la dirección administrativa cuando el negocio lo requiera.
     resources:
       - type: "article"
         title: "Patente municipal: requisitos y tipos - ChileAtiende"
         url: "https://www.chileatiende.gob.cl/fichas/2503-patente-municipal"
+
+  verificacion_de_actividad:
+    title: "Verificación de actividad económica del SII"
+    description: >
+      La **verificación de actividad económica** es un proceso que realiza el SII para
+      confirmar que tu negocio realmente existe antes de permitirte **emitir facturas
+      electrónicas**. Aunque iniciar actividades es simple, la verificación puede ser más
+      lenta, especialmente si recién comienzas. El SII suele solicitar evidencia como
+      **contratos**, **órdenes de compra**, **boletas o facturas de proveedores**, fotos
+      del lugar donde operas o una **descripción detallada del modelo de negocio**. Si no
+      puedes demostrar actividad real, el SII podría rechazar la habilitación
+      temporalmente. Preparar documentación básica antes de solicitar la verificación
+      evita retrasos. Este paso es clave para quienes necesitan facturar pronto y es uno
+      de los cuellos de botella más comunes para emprendedores nuevos.
+    resources:
+      - type: "article"
+        title: "Factura electrónica: requisitos para habilitación - SII"
+        url: "https://www.sii.cl/factura_electronica/requisitos.htm"
 
   debo_contratar_un_contador:
     title: "¿Debo contratar un contador?"

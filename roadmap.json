@@ -168,7 +168,7 @@
       },
       {
         "type": "article",
-        "title": "Costo marginal, costo total - Wikipedia",
+        "title": "Costos - Wikipedia",
         "url": "https://es.wikipedia.org/wiki/Coste"
       }
     ]
@@ -191,6 +191,61 @@
   },
   "necesito_empresa": {
     "title": "¿Necesito una empresa o puedo partir como persona natural?",
-    "description": "En Chile puedes comenzar como persona natural emitiendo boletas de honorarios o boletas electrónicas sin crear una empresa. Esto es suficiente para validar tu\n"
+    "description": "En Chile puedes comenzar como persona natural emitiendo boletas de honorarios o boletas electrónicas sin crear una empresa. Esto es suficiente para validar tu idea. Cuando crezcas o necesites separar tus finanzas, contratar personas o firmar contratos, puedes crear una SpA u otro tipo de empresa. Lo importante es no complicarte al inicio: parte simple y formaliza cuando el negocio lo pida.\n",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Boleta de Honorarios Electrónica - SII",
+        "url": "https://homer.sii.cl/boletasElectronicasInternet/#/login"
+      },
+      {
+        "type": "article",
+        "title": "Crear empresa en un día - ChileAtiende",
+        "url": "https://www.chileatiende.gob.cl/fichas/31544-plataforma-empresa-en-un-dia"
+      }
+    ]
+  },
+  "inicio_actividades_en_el_sii": {
+    "title": "Inicio de actividades en el SII",
+    "description": "Para vender formalmente en Chile, ya sea como persona natural o empresa, debes realizar el inicio de actividades en el SII. Este trámite declara que comenzarás a generar ingresos y te habilita para emitir boletas o facturas. Es gratuito y se hace completamente online. Es un paso obligatorio si vas a operar de forma formal.\n",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Inicio de Actividades - SII",
+        "url": "https://www.sii.cl/servicios_online/1039-1160.html"
+      },
+      {
+        "type": "article",
+        "title": "Guía de inicio de actividades - ChileAtiende",
+        "url": "https://www.chileatiende.gob.cl/fichas/5397-inicio-de-actividades"
+      }
+    ]
+  },
+  "puedo_usar_mi_domicilio": {
+    "title": "¿Puedo usar mi domicilio como dirección del negocio?",
+    "description": "Sí, en Chile puedes usar tu domicilio personal como dirección comercial para iniciar actividades o crear una empresa. La mayoría de los emprendedores parte así. Solo debes asegurarte de que la municipalidad permita actividades comerciales en esa dirección si vas a sacar patente. Para servicios digitales o profesionales, no hay problema en usar tu casa.\n",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Patente municipal: requisitos y tipos - ChileAtiende",
+        "url": "https://www.chileatiende.gob.cl/fichas/2503-patente-municipal"
+      }
+    ]
+  },
+  "debo_contratar_un_contador": {
+    "title": "¿Debo contratar un contador?",
+    "description": "No necesitas un contador para comenzar a emprender, especialmente si partes como persona natural con boletas de honorarios. Cuando el negocio crece, emites facturas, manejas gastos, llevas libros contables o contratas trabajadores, un contador se vuelve clave. También te ayuda a evitar errores con el SII y a mantener tus impuestos al día. Puedes partir solo, pero no escalar solo.\n",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Obligaciones tributarias para emprendedores - SII",
+        "url": "https://www.sii.cl/servicios_online/1039-1108.html"
+      },
+      {
+        "type": "article",
+        "title": "Declaración de impuestos: guía básica - ChileAtiende",
+        "url": "https://www.chileatiende.gob.cl/fichas/25834-declaracion-anual-de-impuestos-a-la-renta"
+      }
+    ]
   }
 }

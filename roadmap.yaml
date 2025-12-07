@@ -254,11 +254,16 @@ roadmap_emprender:
   debo_contratar_un_contador:
     title: "¿Debo contratar un contador?"
     description: >
-      No necesitas un contador para comenzar a emprender, especialmente si partes como
-      persona natural con boletas de honorarios. Cuando el negocio crece, emites facturas,
-      manejas gastos, llevas libros contables o contratas trabajadores, un contador se
-      vuelve clave. También te ayuda a evitar errores con el SII y a mantener tus impuestos
-      al día. Puedes partir solo, pero no escalar solo.
+      No necesitas contratar un contador para comenzar a emprender, especialmente si partes
+      como persona natural emitiendo boletas de honorarios o vendiendo servicios simples.
+      En esta etapa, tus obligaciones tributarias son básicas y podrías manejarlas por tu
+      cuenta. **Sin embargo, muchos emprendedores prefieren partir con un contador** porque
+      tienen dudas, quieren evitar errores o simplemente buscan acompañamiento desde el
+      primer día. A medida que tu negocio crece y comienzas a emitir facturas, registrar
+      gastos, llevar libros contables o contratar trabajadores, la complejidad aumenta y
+      **un contador se vuelve esencial**. También te ayuda a cumplir con el SII, ordenar tu
+      información y tomar mejores decisiones financieras. Puedes partir solo si te sientes
+      seguro, pero **no es recomendable escalar sin apoyo profesional**.
     resources:
       - type: "article"
         title: "Obligaciones tributarias para emprendedores - SII"

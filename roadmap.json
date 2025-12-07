@@ -21,13 +21,76 @@
     "resources": [
       {
         "type": "article",
-        "title": "Cómo identificar tus habilidades para emprender – IEBS",
+        "title": "Cómo identificar tus habilidades para emprender - IEBS",
         "url": "https://www.iebschool.com/blog/habilidades-emprendedor-crear-empresa-emprendedores/"
       },
       {
         "type": "article",
-        "title": "Diagnóstico personal: fortalezas y competencias – Emprende UP",
+        "title": "Diagnóstico personal: fortalezas y competencias - Emprende UP",
         "url": "https://emprendeup.up.edu.pe/blog/fortalezas-y-competencias-emprendedor"
+      }
+    ]
+  },
+  "que_quiero_vender": {
+    "title": "¿Qué quiero vender exactamente?",
+    "description": "Muchas personas quieren emprender, pero no logran explicar con claridad qué están vendiendo. Antes de pensar en logos o redes sociales, necesitas definir tu oferta de forma concreta. ¿Es un servicio, un producto o una combinación? ¿Qué incluye y qué no incluye? ¿Qué problema ayuda a resolver en la práctica? Una forma simple de hacerlo es completar esta frase: “Ayudo a [tipo de cliente] a lograr [resultado] mediante [producto o servicio]”. Mientras más clara sea tu respuesta, más fácil será comunicar, poner precio y mejorar tu idea. Si no puedes decirlo en una frase sencilla, todavía falta ajustar qué quieres vender exactamente.\n",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Desarrolla tu idea de negocio: ¿Qué vas a vender? - one.com",
+        "url": "https://www.one.com/es/marketing-digital/ideas-de-negocio-ejemplos"
+      },
+      {
+        "type": "article",
+        "title": "Propuesta de valor: qué es y cómo hacerla - Salesforce",
+        "url": "https://www.salesforce.com/mx/blog/propuesta-de-valor/"
+      },
+      {
+        "type": "article",
+        "title": "Propuestas de valor: qué son y cómo elaborarlas - Shopify",
+        "url": "https://www.shopify.com/es/blog/propuesta-de-valor"
+      }
+    ]
+  },
+  "es_servicio_o_producto": {
+    "title": "¿Es un servicio, un producto o ambos?",
+    "description": "Definir si tu idea será un servicio, un producto o una mezcla de ambos te ayuda a planificar mejor tu modelo de negocio. Los servicios suelen ser más fáciles para comenzar: requieren poca inversión y permiten aprender rápido del cliente. Los productos, en cambio, pueden escalar más, pero exigen más tiempo, recursos y validación. Muchos emprendimientos parten con un servicio y luego lo transforman en un producto o paquete más definido. Lo importante es elegir el formato que puedas entregar hoy, sin complicarte, y que realmente resuelva el problema del cliente. Empieza simple y evoluciona cuando tengas evidencia suficiente.\n",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Diferencias entre productos y servicios en un emprendimiento - HubSpot",
+        "url": "https://blog.hubspot.es/marketing/diferencia-producto-servicio"
+      },
+      {
+        "type": "article",
+        "title": "Cómo elegir tu modelo de negocio: producto, servicio o híbrido - Shopify",
+        "url": "https://www.shopify.com/es/blog/modelo-de-negocio-producto-servicio"
+      },
+      {
+        "type": "article",
+        "title": "Servicios vs. productos: ventajas, desafíos y cómo empezar - Crehana",
+        "url": "https://www.crehana.com/blog/emprendimiento/productos-vs-servicios/"
+      }
+    ]
+  },
+  "hay_personas_vendiendo_lo_mismo": {
+    "title": "¿Hay otras personas vendiendo lo mismo?",
+    "description": "Saber si existen otros ofreciendo algo similar no es una mala señal; al contrario, significa que hay un mercado dispuesto a pagar. El objetivo no es ser completamente único, sino entender qué hacen los demás y dónde puedes diferenciarte. Observa qué ofrecen, cómo comunican, qué precios manejan y qué problemas resuelven. Fíjate también en las quejas o comentarios de sus clientes: allí suelen aparecer oportunidades. En esta etapa no necesitas un análisis complejo; basta con identificar qué existe y cómo puedes aportar valor de una manera más clara, más simple o más conveniente para tu cliente ideal.\n",
+    "resources": [
+      {
+        "type": "article",
+        "title": "Cómo analizar a tu competencia de forma simple - IEBS",
+        "url": "https://www.iebschool.com/blog/analisis-competencia-emprendedores/"
+      },
+      {
+        "type": "article",
+        "title": "Qué es un análisis competitivo y cómo hacerlo - HubSpot",
+        "url": "https://blog.hubspot.es/marketing/analisis-competitivo"
+      },
+      {
+        "type": "article",
+        "title": "Cómo encontrar oportunidades en la competencia - Shopify",
+        "url": "https://www.shopify.com/es/blog/analisis-de-la-competencia"
       }
     ]
   }

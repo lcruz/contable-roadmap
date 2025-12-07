@@ -43,8 +43,143 @@ roadmap_emprender:
       evita frustraciones y te ayuda a elegir un camino viable y sostenible.
     resources:
       - type: "article"
-        title: "Cómo identificar tus habilidades para emprender – IEBS"
+        title: "Cómo identificar tus habilidades para emprender - IEBS"
         url: "https://www.iebschool.com/blog/habilidades-emprendedor-crear-empresa-emprendedores/"
       - type: "article"
-        title: "Diagnóstico personal: fortalezas y competencias – Emprende UP"
+        title: "Diagnóstico personal: fortalezas y competencias - Emprende UP"
         url: "https://emprendeup.up.edu.pe/blog/fortalezas-y-competencias-emprendedor"
+  que_quiero_vender:
+    title: "¿Qué quiero vender exactamente?"
+    description: >
+      Muchas personas quieren emprender, pero no logran explicar con claridad qué
+      están vendiendo. Antes de pensar en logos o redes sociales, necesitas definir
+      tu oferta de forma concreta. ¿Es un servicio, un producto o una combinación?
+      ¿Qué incluye y qué no incluye? ¿Qué problema ayuda a resolver en la práctica?
+      Una forma simple de hacerlo es completar esta frase: “Ayudo a [tipo de
+      cliente] a lograr [resultado] mediante [producto o servicio]”. Mientras más
+      clara sea tu respuesta, más fácil será comunicar, poner precio y mejorar tu
+      idea. Si no puedes decirlo en una frase sencilla, todavía falta ajustar qué
+      quieres vender exactamente.
+    resources:
+      - type: "article"
+        title: "Desarrolla tu idea de negocio: ¿Qué vas a vender? - one.com"
+        url: "https://www.one.com/es/marketing-digital/ideas-de-negocio-ejemplos"
+      - type: "article"
+        title: "Propuesta de valor: qué es y cómo hacerla - Salesforce"
+        url: "https://www.salesforce.com/mx/blog/propuesta-de-valor/"
+      - type: "article"
+        title: "Propuestas de valor: qué son y cómo elaborarlas - Shopify"
+        url: "https://www.shopify.com/es/blog/propuesta-de-valor"
+
+  es_servicio_o_producto:
+    title: "¿Es un servicio, un producto o ambos?"
+    description: >
+      Definir si tu idea será un servicio, un producto o una mezcla de ambos te
+      ayuda a planificar mejor tu modelo de negocio. Los servicios suelen ser más
+      fáciles para comenzar: requieren poca inversión y permiten aprender rápido
+      del cliente. Los productos, en cambio, pueden escalar más, pero exigen más
+      tiempo, recursos y validación. Muchos emprendimientos parten con un servicio
+      y luego lo transforman en un producto o paquete más definido. Lo importante
+      es elegir el formato que puedas entregar hoy, sin complicarte, y que realmente
+      resuelva el problema del cliente. Empieza simple y evoluciona cuando tengas
+      evidencia suficiente.
+    resources:
+      - type: "article"
+        title: "Diferencias entre productos y servicios en un emprendimiento - HubSpot"
+        url: "https://blog.hubspot.es/marketing/diferencia-producto-servicio"
+      - type: "article"
+        title: "Cómo elegir tu modelo de negocio: producto, servicio o híbrido - Shopify"
+        url: "https://www.shopify.com/es/blog/modelo-de-negocio-producto-servicio"
+      - type: "article"
+        title: "Servicios vs. productos: ventajas, desafíos y cómo empezar - Crehana"
+        url: "https://www.crehana.com/blog/emprendimiento/productos-vs-servicios/"
+
+  hay_personas_vendiendo_lo_mismo:
+    title: "¿Hay otras personas vendiendo lo mismo?"
+    description: >
+      Saber si existen otros ofreciendo algo similar no es una mala señal; al
+      contrario, significa que hay un mercado dispuesto a pagar. El objetivo no es
+      ser completamente único, sino entender qué hacen los demás y dónde puedes
+      diferenciarte. Observa qué ofrecen, cómo comunican, qué precios manejan y qué
+      problemas resuelven. Fíjate también en las quejas o comentarios de sus clientes:
+      allí suelen aparecer oportunidades. En esta etapa no necesitas un análisis
+      complejo; basta con identificar qué existe y cómo puedes aportar valor de una
+      manera más clara, más simple o más conveniente para tu cliente ideal.
+    resources:
+      - type: "article"
+        title: "Cómo analizar a tu competencia de forma simple - IEBS"
+        url: "https://www.iebschool.com/blog/analisis-competencia-emprendedores/"
+      - type: "article"
+        title: "Qué es un análisis competitivo y cómo hacerlo - HubSpot"
+        url: "https://blog.hubspot.es/marketing/analisis-competitivo"
+      - type: "article"
+        title: "Cómo encontrar oportunidades en la competencia - Shopify"
+        url: "https://www.shopify.com/es/blog/analisis-de-la-competencia"
+
+
+quien_es_mi_cliente_tipico:
+  title: "¿Quién es mi cliente típico?"
+  description: >
+    No necesitas un perfil complejo para identificar a tu cliente; basta con entender
+    quién es la persona que realmente pagaría por lo que ofreces. Piensa en su contexto:
+    qué hace, qué le frustra, qué intenta resolver y qué resultados espera. Un cliente
+    típico es alguien específico, no “todo el mundo”. Mientras más claro tengas quién es,
+    más fácil será comunicar tu oferta y tomar decisiones. Define a una persona realista
+    que represente tu mercado: alguien con un problema concreto y con la disposición a
+    pagar por una solución. Ese será tu punto de partida.
+  resources:
+    - type: "article"
+      title: "Cómo definir a tu cliente ideal sin complicarte – IEBS"
+      url: "https://www.iebschool.com/blog/cliente-ideal-emprendedores/"
+    - type: "article"
+      title: "Buyer persona: guía simple para emprendedores – HubSpot"
+      url: "https://blog.hubspot.es/marketing/buyer-persona"
+    - type: "article"
+      title: "Cliente ideal: cómo identificarlo y entenderlo – Shopify"
+      url: "https://www.shopify.com/es/blog/cliente-ideal"
+que_problema_o_necesidad_tiene:
+  title: "¿Qué problema o necesidad específica tiene?"
+  description: >
+    Un negocio solo existe si resuelve un problema real. Este paso consiste en
+    identificar qué dificultad concreta enfrenta tu cliente típico y qué está
+    tratando de lograr sin éxito. Un buen problema es frecuente, molesto, costoso
+    o importante para la persona. Evita suposiciones: escucha cómo describe su
+    frustración y presta atención al lenguaje que usa. Si tu oferta no responde a
+    una necesidad específica, será difícil vender. Cuando entiendes el problema
+    con claridad, puedes diseñar una solución simple, directa y valiosa que el
+    cliente sí esté dispuesto a pagar.
+  resources:
+    - type: "article"
+      title: "Cómo identificar problemas reales en tu mercado – Crehana"
+      url: "https://www.crehana.com/blog/emprendimiento/identificar-problemas-de-negocio/"
+    - type: "article"
+      title: "Encontrar necesidades del cliente: guía práctica – IEBS"
+      url: "https://www.iebschool.com/blog/necesidades-cliente-propuesta-valor/"
+    - type: "article"
+      title: "Cómo descubrir los puntos de dolor de tus clientes – HubSpot"
+      url: "https://blog.hubspot.es/service/puntos-de-dolor-cliente"
+
+
+puedo_probar_con_clientes_reales:
+  title: "¿Puedo hacer una prueba con 3–5 clientes reales?"
+  description: >
+    La forma más rápida de validar una idea es probarla con pocas personas reales.
+    No necesitas una versión perfecta, solo algo simple que permita medir interés,
+    entender objeciones y ver si realmente pagarían por tu solución. Conversa con
+    3 a 5 personas que cumplan el perfil de cliente, muéstrales tu propuesta y
+    observa su reacción. ¿Lo comprarían? ¿Qué cambiarían? ¿Qué les duele de verdad?
+    Estos primeros aprendizajes valen más que cualquier encuesta masiva. Si nadie
+    muestra interés, ajustas; si pagan o quieren avanzar, tienes una señal fuerte
+    de que vas por buen camino.
+  resources:
+    - type: "article"
+      title: "Cómo validar tu idea con clientes reales – Emprende UP"
+      url: "https://emprendeup.up.edu.pe/blog/validar-idea-negocio"
+    - type: "article"
+      title: "Validación rápida: prueba antes de invertir – Shopify"
+      url: "https://www.shopify.com/es/blog/validar-idea-negocio"
+    - type: "article"
+      title: "Cómo hacer entrevistas efectivas a clientes – UX Planet (ES)"
+      url: "https://uxdesign.cc/user-interviews-como-hacer-entrevistas-efectivas-espanol"
+
+

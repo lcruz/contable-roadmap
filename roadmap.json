@@ -39,7 +39,7 @@
   },
   "que_quiero_vender": {
     "title": "¿Qué quiero vender exactamente?",
-    "description": "Necesitas definir tu oferta de forma concreta: qué vendes, qué incluye y qué no. Una forma simple es completar: “Ayudo a [cliente] a lograr [resultado] mediante [producto o servicio]”. Mientras más clara sea tu oferta, más fácil será comunicar, poner precio y mejorar tu idea. Si no puedes decirlo en una frase, aún falta ajustar.\n",
+    "description": "Necesitas definir tu oferta de forma concreta: qué vendes, qué incluye y qué no. Una forma simple es completar: \"Ayudo a [cliente] a lograr [resultado] mediante [producto o servicio]\". Mientras más clara sea tu oferta, más fácil será comunicar, poner precio y mejorar tu idea. Si no puedes decirlo en una frase, aún falta ajustar.\n",
     "resources": [
       {
         "type": "article",
@@ -72,7 +72,7 @@
   },
   "quien_es_mi_cliente_tipico": {
     "title": "¿Quién es mi cliente típico?",
-    "description": "No necesitas un perfil sofisticado; solo entender quién pagaría realmente por tu solución. Un cliente típico es alguien específico, con un problema concreto y con disposición a pagar. Mientras más claro tengas quién es, más fácil será comunicar tu oferta y tomar decisiones.\n",
+    "description": "Identificar a tu **cliente típico** no significa crear un perfil complejo ni imaginar un personaje ficticio. Se trata de reconocer a la persona real que tiene el problema que tú puedes resolver y que estaría dispuesta a pagar por una solución. No es “todo el mundo\", sino un tipo de cliente con características claras: qué hace, qué le frustra, qué intenta lograr y qué valora al momento de comprar. Mientras más específico seas, más fácil será comunicar, ofrecer y fijar precios. Tu cliente típico es la persona con la que puedes trabajar hoy, no la ideal del futuro. Definirlo con honestidad te evita perder tiempo y te permite enfocar tu energía en quienes realmente necesitan tu solución y pueden convertirse en tus primeros ingresos.\n",
     "resources": [
       {
         "type": "article",
@@ -191,7 +191,7 @@
   },
   "necesito_empresa": {
     "title": "¿Necesito una empresa o puedo partir como persona natural?",
-    "description": "En Chile puedes comenzar como persona natural emitiendo boletas de honorarios o boletas electrónicas sin crear una empresa. Esto es suficiente para validar tu idea. Cuando crezcas o necesites separar tus finanzas, contratar personas o firmar contratos, puedes crear una SpA u otro tipo de empresa. Lo importante es no complicarte al inicio: parte simple y formaliza cuando el negocio lo pida.\n",
+    "description": "Aunque es posible emprender como **persona natural**, no es la opción más recomendable si tienes intención de crecer. La persona natural y la **EIRL** tienen limitaciones estructurales: la EIRL debe operar con un **giro único definido por ley**, no permite incorporar socios y no ofrece la flexibilidad necesaria para diversificar servicios o escalar. Además, algunas instituciones financieras pueden aplicar criterios más estrictos al evaluar empresas unipersonales. Si tu idea es validar algo pequeño, partir como persona natural podría servir; pero si esperas trabajar con empresas, emitir facturas, sumar socios o proyectar crecimiento, lo más conveniente es iniciar directamente con una **SpA**. La SpA permite múltiples giros, separa tu patrimonio, facilita la entrada de socios y entrega una estructura más sólida para crecer sin fricciones innecesarias.\n",
     "resources": [
       {
         "type": "article",

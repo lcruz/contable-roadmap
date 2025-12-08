@@ -63,88 +63,87 @@ roadmap:
         url: "https://www.zendesk.es/blog/customer-journey-map/"
 
 
-perfil_del_cliente_real:
-  title: "Perfil del cliente real"
-  description: >
-    El **perfil del cliente real** no es un personaje imaginario, sino una descripción
-    concreta de las personas que ya compran, podrían comprar o están activamente
-    buscando una solución como la tuya. Para definirlo, observa quiénes te han
-    contactado, quiénes preguntan, quiénes comparan precios y quiénes contratan.
-    Incluye aspectos básicos como edad, actividad o nivel de experiencia, pero sobre
-    todo enfócate en su comportamiento: cómo toma decisiones, qué tanto sabe del
-    tema y qué tan urgente es su necesidad. Este perfil evoluciona con el tiempo y
-    mejora con cada conversación real. Cuando conoces a tu cliente de verdad,
-    puedes ajustar tu mensaje, tu oferta y tu proceso de ventas para conectar mejor
-    y aumentar la conversión sin complicarte.
-  resources:
-    - type: "article"
-      title: "Cómo definir a tu cliente ideal - HubSpot"
-      url: "https://blog.hubspot.es/marketing/cliente-ideal"
-    - type: "article"
-      title: "Guía práctica para identificar a tu cliente - Shopify"
-      url: "https://www.shopify.com/es/blog/cliente-ideal"
+  perfil_del_cliente_real:
+    title: "Perfil del cliente real"
+    description: >
+      El **perfil del cliente real** no es un personaje imaginario, sino una descripción
+      concreta de las personas que ya compran, podrían comprar o están activamente
+      buscando una solución como la tuya. Para definirlo, observa quiénes te han
+      contactado, quiénes preguntan, quiénes comparan precios y quiénes contratan.
+      Incluye aspectos básicos como edad, actividad o nivel de experiencia, pero sobre
+      todo enfócate en su comportamiento: cómo toma decisiones, qué tanto sabe del
+      tema y qué tan urgente es su necesidad. Este perfil evoluciona con el tiempo y
+      mejora con cada conversación real. Cuando conoces a tu cliente de verdad,
+      puedes ajustar tu mensaje, tu oferta y tu proceso de ventas para conectar mejor
+      y aumentar la conversión sin complicarte.
+    resources:
+      - type: "article"
+        title: "Cómo definir a tu cliente ideal - HubSpot"
+        url: "https://blog.hubspot.es/marketing/cliente-ideal"
+      - type: "article"
+        title: "Guía práctica para identificar a tu cliente - Shopify"
+        url: "https://www.shopify.com/es/blog/cliente-ideal"
 
   motivaciones_y_miedos_del_cliente:
-    title: "Motivaciones y miedos del cliente"
-    description: >
-      Toda decisión de compra combina dos fuerzas: **lo que el cliente desea lograr**
-      y **lo que teme que salga mal**. Las motivaciones incluyen mejorar ingresos,
-      ahorrar tiempo, simplificar procesos o evitar errores. Los miedos suelen estar
-      relacionados con el riesgo: pagar por algo que no funcione, equivocarse, perder
-      dinero o sentirse solo en el proceso. Cuando reconoces estas emociones, puedes
-      comunicar de manera más clara y reducir incertidumbre. No se trata de manipular,
-      sino de demostrar comprensión y claridad. Las ventas mejoran cuando respondes a
-      lo que el cliente realmente siente, no solo a lo que dice. Conectar con estas
-      motivaciones y miedos es clave para crear mensajes efectivos y ofertas que
-      generen confianza desde el inicio.
-    resources:
-      - type: "article"
-        title: "Cómo entender motivaciones y frenos de compra - IEBS"
-        url: "https://www.iebschool.com/blog/motivaciones-compra-marketing/"
-      - type: "article"
-        title: "Factores emocionales en la decisión de compra - Rockcontent"
-        url: "https://rockcontent.com/es/blog/marketing-emocional/"
+      title: "Motivaciones y miedos del cliente"
+      description: >
+        Toda decisión de compra combina dos fuerzas: **lo que el cliente desea lograr**
+        y **lo que teme que salga mal**. Las motivaciones incluyen mejorar ingresos,
+        ahorrar tiempo, simplificar procesos o evitar errores. Los miedos suelen estar
+        relacionados con el riesgo: pagar por algo que no funcione, equivocarse, perder
+        dinero o sentirse solo en el proceso. Cuando reconoces estas emociones, puedes
+        comunicar de manera más clara y reducir incertidumbre. No se trata de manipular,
+        sino de demostrar comprensión y claridad. Las ventas mejoran cuando respondes a
+        lo que el cliente realmente siente, no solo a lo que dice. Conectar con estas
+        motivaciones y miedos es clave para crear mensajes efectivos y ofertas que
+        generen confianza desde el inicio.
+      resources:
+        - type: "article"
+          title: "Cómo entender motivaciones y frenos de compra - IEBS"
+          url: "https://www.iebschool.com/blog/motivaciones-compra-marketing/"
+        - type: "article"
+          title: "Factores emocionales en la decisión de compra - Rockcontent"
+          url: "https://rockcontent.com/es/blog/marketing-emocional/"
 
   puntos_de_dolor:
-    title: "Puntos de dolor"
-    description: >
-      Los **puntos de dolor** son los problemas concretos que el cliente quiere
-      resolver. No siempre son obvios: a veces se esconden tras frustraciones pequeñas,
-      procesos confusos o experiencias negativas anteriores. Para identificarlos,
-      escucha frases como “me complica”, “pierdo tiempo”, “no entiendo”, “no sé por
-      dónde partir” o “me da miedo equivocarme”. Mientras más específico es el dolor,
-      más fácil es mostrar cómo tu solución lo reduce o lo elimina. Hablar
-      directamente del problema que el cliente vive todos los días genera conexión
-      inmediata y mejora la conversión. Tus mensajes deben enfocarse menos en tu
-      producto y más en el alivio que el cliente está buscando.
-    resources:
-      - type: "article"
-        title: "Qué son los pain points y cómo detectarlos - Semrush"
-        url: "https://es.semrush.com/blog/pain-points/"
-      - type: "article"
-        title: "Pain points: ejemplos y cómo resolverlos - Zendesk"
-        url: "https://www.zendesk.es/blog/pain-points/"
+      title: "Puntos de dolor"
+      description: >
+        Los **puntos de dolor** son los problemas concretos que el cliente quiere
+        resolver. No siempre son obvios: a veces se esconden tras frustraciones pequeñas,
+        procesos confusos o experiencias negativas anteriores. Para identificarlos,
+        escucha frases como “me complica”, “pierdo tiempo”, “no entiendo”, “no sé por
+        dónde partir” o “me da miedo equivocarme”. Mientras más específico es el dolor,
+        más fácil es mostrar cómo tu solución lo reduce o lo elimina. Hablar
+        directamente del problema que el cliente vive todos los días genera conexión
+        inmediata y mejora la conversión. Tus mensajes deben enfocarse menos en tu
+        producto y más en el alivio que el cliente está buscando.
+      resources:
+        - type: "article"
+          title: "Qué son los pain points y cómo detectarlos - Semrush"
+          url: "https://es.semrush.com/blog/pain-points/"
+        - type: "article"
+          title: "Pain points: ejemplos y cómo resolverlos - Zendesk"
+          url: "https://www.zendesk.es/blog/pain-points/"
 
   lenguaje_del_cliente:
-    title: "Lenguaje del cliente"
-    description: >
-      El **lenguaje del cliente** es la forma en que describe sus problemas,
-      necesidades y expectativas. No es tu lenguaje técnico, sino sus palabras reales.
-      Escuchar cómo hablan tus clientes te permite comunicarte de forma más clara,
-      construir confianza y evitar malentendidos. Observa los términos que usan en
-      conversaciones, mensajes o redes: suelen ser simples, directos y cargados de
-      emociones. Cuando adaptas tu mensaje a ese lenguaje, ocurre algo poderoso:
-      sienten que los entiendes y que tu solución fue creada para ellos. Esto aumenta
-      la conexión emocional, reduce objeciones y mejora la conversión sin necesidad
-      de “vender más fuerte”.
-    resources:
-      - type: "article"
-        title: "Cómo hablar el lenguaje del cliente - HubSpot"
-        url: "https://blog.hubspot.es/service/lenguaje-del-cliente"
-      - type: "article"
-        title: "Comunicación centrada en el cliente - IEBS"
-        url: "https://www.iebschool.com/blog/atencion-al-cliente-comunicacion/"
-
+      title: "Lenguaje del cliente"
+      description: >
+        El **lenguaje del cliente** es la forma en que describe sus problemas,
+        necesidades y expectativas. No es tu lenguaje técnico, sino sus palabras reales.
+        Escuchar cómo hablan tus clientes te permite comunicarte de forma más clara,
+        construir confianza y evitar malentendidos. Observa los términos que usan en
+        conversaciones, mensajes o redes: suelen ser simples, directos y cargados de
+        emociones. Cuando adaptas tu mensaje a ese lenguaje, ocurre algo poderoso:
+        sienten que los entiendes y que tu solución fue creada para ellos. Esto aumenta
+        la conexión emocional, reduce objeciones y mejora la conversión sin necesidad
+        de “vender más fuerte”.
+      resources:
+        - type: "article"
+          title: "Cómo hablar el lenguaje del cliente - HubSpot"
+          url: "https://blog.hubspot.es/service/lenguaje-del-cliente"
+        - type: "article"
+          title: "Comunicación centrada en el cliente - IEBS"
+          url: "https://www.iebschool.com/blog/atencion-al-cliente-comunicacion/"
 
   marca_personal:
     title: "Marca personal"

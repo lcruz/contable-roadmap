@@ -1,14 +1,26 @@
 roadmap:
-  antes_de_empezar:
-    title: "Antes de empezar"
+
+  entender_al_cliente:
+    title: "Entender al cliente"
     description: >
-      **⚠️ Este roadmap no es secuencial.** Aunque los nodos estén organizados de manera
-      visual, no necesitas completar uno para avanzar al siguiente. Vender es un proceso
-      dinámico y muchas veces avanzarás en varios temas a la vez: entender al cliente,
-      ajustar tu mensaje, probar canales y mejorar tu oferta. Emprender no es una línea
-      recta; es iterativo. Usa este mapa como una guía flexible para orientarte, no como
-      una lista rígida de pasos.
-    type: "warning"
+      Entender al cliente es mucho más que definir un perfil básico. Significa comprender
+      **cómo piensa**, qué le preocupa, qué busca, qué le frustra y qué lo motiva a tomar
+      una decisión. No se trata de crear una “persona ficticia”, sino de observar
+      comportamientos reales: cómo compra, qué palabras usa para describir su problema,
+      qué alternativas considera y qué señales aumentan o reducen su confianza. Cuando
+      entiendes estas motivaciones y miedos, puedes ajustar tu mensaje, tu oferta y tu
+      proceso de ventas para que conecten mejor. Este conocimiento es práctico y evoluciona
+      con cada conversación: mientras más hablas con clientes reales, más claridad obtienes.
+      Vender no es convencer; es **alinear tu solución con lo que el cliente realmente
+      necesita y valora**.
+    resources:
+      - type: "article"
+        title: "Cómo entender mejor a tu cliente - IEBS"
+        url: "https://www.iebschool.com/blog/entender-cliente-marketing/"
+      - type: "article"
+        title: "Comprender al cliente: guía práctica - HubSpot"
+        url: "https://blog.hubspot.es/service/entender-a-los-clientes"
+
 
   propuesta_de_valor:
     title: "Propuesta de valor"

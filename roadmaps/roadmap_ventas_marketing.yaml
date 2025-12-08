@@ -1,0 +1,51 @@
+roadmap:
+  antes_de_empezar:
+    title: "Antes de empezar"
+    description: >
+      **⚠️ Este roadmap no es secuencial.** Aunque los nodos estén organizados de manera
+      visual, no necesitas completar uno para avanzar al siguiente. Vender es un proceso
+      dinámico y muchas veces avanzarás en varios temas a la vez: entender al cliente,
+      ajustar tu mensaje, probar canales y mejorar tu oferta. Emprender no es una línea
+      recta; es iterativo. Usa este mapa como una guía flexible para orientarte, no como
+      una lista rígida de pasos.
+    type: "warning"
+
+  propuesta_de_valor:
+    title: "Propuesta de valor"
+    description: >
+      La **propuesta de valor** explica de manera simple qué problema resuelves y qué
+      beneficio concreto obtiene el cliente al trabajar contigo. No se trata de describir
+      tu producto, sino de responder por qué tu solución importa en la vida real de quien
+      te compra. Una buena propuesta de valor debe ser clara, específica y enfocada en el
+      resultado: ahorrar tiempo, reducir riesgos, simplificar un proceso o mejorar un
+      aspecto relevante del negocio o la vida del cliente. También debe diferenciarse de
+      las alternativas disponibles sin exagerar ni prometer más de lo que puedes cumplir.
+      Cuando tu propuesta está bien definida, el marketing y las ventas se vuelven más
+      simples porque comunicas lo que realmente importa.
+    resources:
+      - type: "article"
+        title: "Cómo crear una propuesta de valor - HubSpot"
+        url: "https://blog.hubspot.es/marketing/propuesta-de-valor"
+      - type: "article"
+        title: "Propuesta de valor: guía práctica - Shopify"
+        url: "https://www.shopify.com/es/blog/propuesta-de-valor"
+
+  viaje_del_cliente:
+    title: "Viaje del cliente"
+    description: >
+      El **viaje del cliente** representa todas las etapas por las que una persona pasa
+      antes, durante y después de comprar. No es un proceso lineal: los clientes pueden
+      avanzar, retroceder y comparar alternativas mientras evalúan si tu solución es la
+      adecuada. Este viaje incluye cuatro momentos clave: la **pre-compra**, donde surge
+      la necesidad; la **consideración**, cuando evalúan opciones; la **decisión**, cuando
+      compran; y la **experiencia**, que determina si volverán o te recomendarán.
+      Comprender este viaje te permite mejorar tu comunicación, crear contenido útil,
+      identificar fricciones y perfeccionar tu proceso de ventas. Cuando observas tu
+      negocio desde la mirada del cliente, todas tus acciones se vuelven más efectivas.
+    resources:
+      - type: "article"
+        title: "Customer Journey Map: qué es y cómo hacerlo - IEBS"
+        url: "https://www.iebschool.com/blog/customer-journey-map-experiencia-usuario/"
+      - type: "article"
+        title: "Mapa del viaje del cliente - Zendesk"
+        url: "https://www.zendesk.es/blog/customer-journey-map/"

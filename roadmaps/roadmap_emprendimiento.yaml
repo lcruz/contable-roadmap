@@ -1,15 +1,18 @@
-roadmap_emprender:
+roadmap:
 
   porque_quiero_emprender:
     title: "¿Por qué quiero emprender?"
     description: >
-      Emprender parte con una pregunta simple: ¿por qué quiero hacerlo? Antes de pensar
-      en ideas o trámites, necesitas entender qué te mueve. Tu motivación es lo que te
-      sostiene cuando aparecen dificultades. Tal vez buscas más ingresos, libertad,
-      estabilidad para tu familia o independencia. No existe una razón correcta, solo
-      razones honestas y reales para ti. Cuando tienes claro tu porqué, eliges mejor tus
-      proyectos y te enfocas en lo que importa. Pregúntate qué sueñas cambiar y qué estás
-      dispuesto a construir.
+      Antes de elegir una idea o pensar en trámites, necesitas claridad sobre **por qué
+      quieres emprender**. La motivación es lo que sostiene el proceso cuando aparecen
+      dudas, demora o frustración. Quizás buscas **independencia**, mejorar tus ingresos,
+      mayor control de tu tiempo, cambiar tu estilo de vida o construir algo propio. No
+      existe una razón correcta, pero sí razones honestas y sostenibles. Emprender exige
+      esfuerzo y constancia, por eso es esencial saber qué te mueve de verdad. Entender tu
+      "por qué" te ayuda a tomar mejores decisiones, elegir ideas alineadas contigo y
+      evitar caminos que no tienen sentido para tu vida. Tu motivación inicial será el
+      ancla que te permitirá avanzar incluso cuando el resultado no sea inmediato. Antes
+      de todo lo demás, pregúntate qué quieres cambiar y qué estás dispuesto a construir.
     resources:
       - type: "article"
         title: "¿Por qué emprender? - BBVA"

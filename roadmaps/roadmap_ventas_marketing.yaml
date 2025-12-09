@@ -448,3 +448,110 @@ roadmap:
       - type: "article"
         title: "Customer Acquisition Cost: guía - Shopify"
         url: "https://www.shopify.com/es/blog/customer-acquisition-cost"
+
+
+  experiencia_del_cliente:
+    title: "Experiencia del cliente"
+    description: >
+      La **experiencia del cliente** abarca todas las interacciones antes, durante y
+      después de la compra. No es solo “atender bien”, sino diseñar un recorrido claro,
+      simple y sin fricciones. Una experiencia positiva aumenta la retención, genera
+      referidos y mejora tu reputación. Incluye la rapidez con que respondes, la
+      claridad de tu comunicación, la facilidad del proceso y cómo acompañas al cliente
+      después de pagar. Cada punto de contacto influye en cómo perciben tu negocio: un
+      mensaje claro, una entrega a tiempo o un seguimiento oportuno construyen
+      confianza. Una buena experiencia no requiere grandes recursos, solo consistencia.
+      Cuando cuidas este recorrido, tu marketing se vuelve más efectivo porque tus
+      propios clientes se convierten en promotores naturales.
+    resources:
+      - type: "article"
+        title: "Qué es la experiencia del cliente - Zendesk"
+        url: "https://www.zendesk.es/blog/que-es-la-experiencia-del-cliente/"
+      - type: "article"
+        title: "Customer Experience: guía completa - HubSpot"
+        url: "https://blog.hubspot.es/service/experiencia-cliente"
+
+  post_venta:
+    title: "Post venta"
+    description: >
+      La **post venta** es el conjunto de acciones que realizas después de entregar tu
+      producto o servicio. Su objetivo es asegurar que el cliente obtenga el resultado
+      que esperaba y sienta que puede contar contigo. Un buen proceso de post venta
+      incluye seguimiento, resolución rápida de dudas, solicitud de feedback y apertura
+      a mejoras. También es el momento ideal para pedir testimonios o referidos, ya que
+      la confianza está alta. La post venta no es un “extra”: es una parte crítica del
+      negocio porque influye directamente en la retención, la recompra y tu reputación.
+      Cuando cuidas este proceso, tus clientes se convierten en tus mejores vendedores,
+      reduciendo tu costo de adquisición.
+    resources:
+      - type: "article"
+        title: "Estrategias efectivas de postventa - Shopify"
+        url: "https://www.shopify.com/es/blog/servicio-postventa"
+      - type: "article"
+        title: "Servicio postventa: claves - HubSpot"
+        url: "https://blog.hubspot.es/service/servicio-post-venta"
+
+  medicion_y_mejora:
+    title: "Medición y mejora continua"
+    description: >
+      Medir te permite entender qué realmente funciona. La **mejora continua** se basa
+      en revisar datos simples: cuántos contactos generas, cuántos avanzan, cuántos
+      compran y qué canales convierten mejor. Aquí entran métricas clave como CAC, LTV y
+      tasa de cierre. La idea no es “obsesionarse con números”, sino identificar qué
+      acciones generan resultados y cuáles debes ajustar o eliminar. Medir también te
+      ayuda a anticipar problemas: si baja tu tasa de respuesta o aumenta tu costo por
+      cliente, puedes tomar decisiones antes de que afecten tu negocio. Un sistema de
+      mejora continua convierte tu proceso de ventas en algo más predecible y escalable.
+    resources:
+      - type: "article"
+        title: "KPIs de ventas y marketing esenciales - HubSpot"
+        url: "https://blog.hubspot.es/marketing/kpis"
+      - type: "article"
+        title: "Cómo medir y optimizar tu embudo de ventas - Salesforce"
+        url: "https://www.salesforce.com/mx/blog/sales-funnel/"
+
+  canales_de_adquisicion:
+    title: "Canales de adquisición"
+    description: >
+      Los **canales de adquisición** son las distintas rutas por las que un cliente puede
+      llegar a tu negocio. No existe un canal perfecto: cada uno funciona según tu
+      mercado, tu oferta y tus recursos. La clave es probar varios, medir resultados y
+      concentrarte en los que realmente generan clientes. En este roadmap encontrarás
+      opciones como SEO, SEM, referidos, alianzas y venta en frío, cada una con su
+      propio rol dentro de tu estrategia. Un buen sistema de adquisición combina canales
+      rápidos con canales sostenibles, creando un flujo constante de oportunidades.
+    resources: []
+
+  confianza_y_prueba_social:
+    title: "Confianza y prueba social"
+    description: >
+      La **prueba social** reduce la incertidumbre y acelera la decisión de compra.
+      Testimonios, casos de éxito, reseñas, ejemplos de trabajo y números concretos
+      ayudan al cliente a sentir que está tomando una decisión segura. La confianza no
+      se declara: se demuestra. Publicar experiencias reales, mostrar procesos, responder
+      con transparencia y entregar evidencia verificable genera credibilidad. Incluso si
+      estás comenzando, puedes usar microcasos, muestras de trabajo o reseñas iniciales.
+      Construir confianza es una de las formas más efectivas de mejorar conversión sin
+      aumentar tu gasto en publicidad.
+    resources:
+      - type: "article"
+        title: "Qué es la prueba social y cómo usarla - HubSpot"
+        url: "https://blog.hubspot.es/marketing/prueba-social"
+      - type: "article"
+        title: "Estrategias de confianza para marcas - Shopify"
+        url: "https://www.shopify.com/es/blog/confianza-de-cliente"
+
+  proceso_de_venta:
+    title: "Proceso de venta"
+    description: >
+      El **proceso de venta** es el recorrido que va desde el primer contacto hasta el
+      cierre. Tener un proceso claro no significa ser rígido, sino saber qué hacer en
+      cada etapa: diagnosticar, presentar tu oferta, resolver dudas y hacer seguimiento.
+      Un buen proceso no se trata de presionar, sino de guiar al cliente hacia una
+      decisión informada. Define tus pasos, tus mensajes clave y los criterios para
+      avanzar oportunidades. Esto reduce la improvisación, mejora la tasa de cierre y te
+      permite repetir lo que funciona. Un proceso ordenado hace que vender sea más
+      simple, predecible y profesional.
+    resources:
+      - type: "article"
+        title: "Cómo crear un proceso de ventas - HubSpot"
